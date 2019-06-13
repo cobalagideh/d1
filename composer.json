@@ -1,0 +1,20 @@
+{
+    "name": "mtv-stream/double-shot-at-love-season-1-episode-11-full",
+    "description": "Watch Double Shot at Love Season 1 Episode 11 Online for Free Putlocker S01E11 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Double Shot at Love Season 1 Episode 11 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/ZNdT8j5Q0I",
+            "homepage": "https://t.co/ZNdT8j5Q0I",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
